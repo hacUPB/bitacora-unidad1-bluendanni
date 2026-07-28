@@ -131,7 +131,7 @@ Para entregar oficialmente tu actividad:
 1. **Asegúrate de hacer commit y push** de todos tus cambios
 2. **Verifica que tu trabajo esté completo y bien documentado**
 3. **Espera retroalimentación** y realiza los ajustes necesarios si se requieren
-
+![alt text](ProgramaSesion3y4.jpeg)
 ---
 
 ¡Mucho éxito durante el curso! 🌟  
