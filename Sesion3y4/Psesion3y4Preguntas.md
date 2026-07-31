@@ -50,9 +50,10 @@ Si D es 0, no hay una tecla presionada y el programa continúa por la sección q
 
 Segunda actividad 4 de la sección 3. 
  Captura de pantalla del funcionamiento: 
- 
+ ![alt text](<Captura de pantalla 2026-07-30 130943.png>)
+![alt text](<Captura de pantalla 2026-07-30 131050.png>)
 1- Escribe un programa que compare el valor almacenado en la dirección de memoria 5 con el valor 10. Si el valor es menor que 10, guarda el valor 1 en la dirección 7. Si el valor es mayor o igual a 10, guarda el valor 0 en la dirección 7.
-[]
+
 
 ------
 
@@ -63,16 +64,16 @@ Para las actividades de la sección 4,se adjuntan capturas del funcionamiento de
 
 
 2- Escribe un programa que dibuje un punto negro en la esquina superior izquierda de la pantalla.
-[]
+![alt text](<Captura de pantalla 2026-07-30 200722.png>)
 
 
 3- Modifica el programa anterior para que dibuje una línea horizontal negra de 16 pixeles de largo en la esquina superior izquierda de la pantalla. (Recuerda que cada word en la memoria representa 16 pixeles).
-[]
+![alt text](LineaHorizontal.png)
 
 
 4- Modifica el programa de la actividad anterior de tal manera que puedas mover la línea horizontal de derecha a izquierda usando las teclas d e i respectivamente. Tu programa no tiene que verificar si la línea se sale de la pantalla.
-[]
-
+![alt text](lineamovible.png)
+![alt text](lineamoviblei.png)
 
 
 
