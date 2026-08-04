@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/klW4y0mq)
 # Bitácora de Sistemas Computacionales 🚀
 
 ¡Bienvenid@ al repositorio de tu Bitácora para el curso de Sistemas Computacionales! Este espacio será tu diario de aprendizaje donde documentarás paso a paso todas tus actividades, descubrimientos y soluciones durante el curso. 📘✨
@@ -130,7 +131,7 @@ Para entregar oficialmente tu actividad:
 1. **Asegúrate de hacer commit y push** de todos tus cambios
 2. **Verifica que tu trabajo esté completo y bien documentado**
 3. **Espera retroalimentación** y realiza los ajustes necesarios si se requieren
-
+![alt text](ProgramaSesion3y4.jpeg)
 ---
 
 ¡Mucho éxito durante el curso! 🌟  
