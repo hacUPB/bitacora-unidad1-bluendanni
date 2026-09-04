@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Danna\\OneDrive\\Desktop\\Computacionales Danna Caballero\\Unidad2\\Unidad2_Actividad3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7E0D57-54C6-423A-A498-342EC9CB86C4}|Unidad2_Actividad3\\Unidad2_Actividad3.vcxproj|C:\\Users\\Danna\\OneDrive\\Desktop\\Computacionales Danna Caballero\\Unidad2\\Unidad2_Actividad3\\Unidad2_Actividad3\\Reflexion_Unidad2Act3.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{AE7E0D57-54C6-423A-A498-342EC9CB86C4}|Unidad2_Actividad3\\Unidad2_Actividad3.vcxproj|solutionrelative:Unidad2_Actividad3\\Reflexion_Unidad2Act3.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7E0D57-54C6-423A-A498-342EC9CB86C4}|Unidad2_Actividad3\\Unidad2_Actividad3.vcxproj|C:\\Users\\Danna\\OneDrive\\Desktop\\Computacionales Danna Caballero\\Unidad2\\Unidad2_Actividad3\\Unidad2_Actividad3\\Reflexion_Unidad2Act3.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|MarkdownPreview",
+      "RelativeMoniker": "D:0:0:{AE7E0D57-54C6-423A-A498-342EC9CB86C4}|Unidad2_Actividad3\\Unidad2_Actividad3.vcxproj|solutionrelative:Unidad2_Actividad3\\Reflexion_Unidad2Act3.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|MarkdownPreview"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7E0D57-54C6-423A-A498-342EC9CB86C4}|Unidad2_Actividad3\\Unidad2_Actividad3.vcxproj|C:\\Users\\Danna\\OneDrive\\Desktop\\Computacionales Danna Caballero\\Unidad2\\Unidad2_Actividad3\\Unidad2_Actividad3\\Unidad2_Actividad3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AE7E0D57-54C6-423A-A498-342EC9CB86C4}|Unidad2_Actividad3\\Unidad2_Actividad3.vcxproj|solutionrelative:Unidad2_Actividad3\\Unidad2_Actividad3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reflexion_Unidad2Act3.md [Preview]",
+              "DocumentMoniker": "C:\\Users\\Danna\\OneDrive\\Desktop\\Computacionales Danna Caballero\\Unidad2\\Unidad2_Actividad3\\Unidad2_Actividad3\\Reflexion_Unidad2Act3.md",
+              "RelativeDocumentMoniker": "Unidad2_Actividad3\\Reflexion_Unidad2Act3.md",
+              "ToolTip": "C:\\Users\\Danna\\OneDrive\\Desktop\\Computacionales Danna Caballero\\Unidad2\\Unidad2_Actividad3\\Unidad2_Actividad3\\Reflexion_Unidad2Act3.md [Preview]",
+              "RelativeToolTip": "Unidad2_Actividad3\\Reflexion_Unidad2Act3.md [Preview]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-09-03T23:38:36.324Z",
+              "EditorCaption": " [Preview]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reflexion_Unidad2Act3.md",
+              "DocumentMoniker": "C:\\Users\\Danna\\OneDrive\\Desktop\\Computacionales Danna Caballero\\Unidad2\\Unidad2_Actividad3\\Unidad2_Actividad3\\Reflexion_Unidad2Act3.md",
+              "RelativeDocumentMoniker": "Unidad2_Actividad3\\Reflexion_Unidad2Act3.md",
+              "ToolTip": "C:\\Users\\Danna\\OneDrive\\Desktop\\Computacionales Danna Caballero\\Unidad2\\Unidad2_Actividad3\\Unidad2_Actividad3\\Reflexion_Unidad2Act3.md",
+              "RelativeToolTip": "Unidad2_Actividad3\\Reflexion_Unidad2Act3.md",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-09-03T23:38:34.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Unidad2_Actividad3.cpp",
+              "DocumentMoniker": "C:\\Users\\Danna\\OneDrive\\Desktop\\Computacionales Danna Caballero\\Unidad2\\Unidad2_Actividad3\\Unidad2_Actividad3\\Unidad2_Actividad3.cpp",
+              "RelativeDocumentMoniker": "Unidad2_Actividad3\\Unidad2_Actividad3.cpp",
+              "ToolTip": "C:\\Users\\Danna\\OneDrive\\Desktop\\Computacionales Danna Caballero\\Unidad2\\Unidad2_Actividad3\\Unidad2_Actividad3\\Unidad2_Actividad3.cpp",
+              "RelativeToolTip": "Unidad2_Actividad3\\Unidad2_Actividad3.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-01T14:54:07.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

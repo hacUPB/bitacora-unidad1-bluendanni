@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Tarea_ActInvestigacion_Unidad2/Tarea_ActInvestigacion_Unidad2.vcxproj" />
+</Solution>
