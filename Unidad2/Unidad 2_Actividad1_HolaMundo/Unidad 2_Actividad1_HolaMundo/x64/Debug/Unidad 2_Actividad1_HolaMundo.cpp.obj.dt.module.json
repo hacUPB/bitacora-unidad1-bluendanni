@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Unidad 2_Actividad1_HolaMundo.obj",
+            "outputs": [
+                "x64\\Debug\\Unidad 2_Actividad1_HolaMundo.cpp.obj.dt.module.json",
+                "x64\\Debug\\Unidad 2_Actividad1_HolaMundo.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
