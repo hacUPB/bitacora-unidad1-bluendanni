@@ -79,3 +79,17 @@ así que ese parámetro ya no existe como variable activa.
 ----
 ## B. Verificación y análisis (usando el depurador):
 
+---
+4. 
+La salida real coincide con la predicción. No hubo diferencias.
+
+---
+5.
+Las capturas de pantalla demuestran que el paso por valor crea una copia de la variable, mientras que el paso por referencia
+y el paso por puntero permiten modificar la variable original.
+
+---
+6. El comportamiento de `contador_estatico` es tal que mantiene su valor entre llamadas 
+a la función
+
+---
