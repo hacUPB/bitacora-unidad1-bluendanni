@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\Danna\OneDrive\Desktop\Computacionales Danna Caballero\Unidad3POO\Actividad3_Un3_POO\Source.cpp(1,22): error C2504: 'ofBaseApp': base class undefined
+C:\Users\Danna\OneDrive\Desktop\Computacionales Danna Caballero\Unidad3POO\Actividad3_Un3_POO\Source.cpp(8,7): error C2039: 'vector': is not a member of 'std'
+      C:\Users\Danna\OneDrive\Desktop\Computacionales Danna Caballero\Unidad3POO\Actividad3_Un3_POO\predefined C++ types (compiler internal)(357,11):
+      see declaration of 'std'
+  
+C:\Users\Danna\OneDrive\Desktop\Computacionales Danna Caballero\Unidad3POO\Actividad3_Un3_POO\Source.cpp(8,13): error C2143: syntax error: missing ';' before '<'
+C:\Users\Danna\OneDrive\Desktop\Computacionales Danna Caballero\Unidad3POO\Actividad3_Un3_POO\Source.cpp(8,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Danna\OneDrive\Desktop\Computacionales Danna Caballero\Unidad3POO\Actividad3_Un3_POO\Source.cpp(8,34): error C2238: unexpected token(s) preceding ';'
