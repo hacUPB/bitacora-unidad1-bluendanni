@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ReflexionActividad2_Swap/ReflexionActividad2_Swap.vcxproj" Id="280206f2-7030-4b16-920b-db9e99f63e5d" />
+</Solution>

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Unidad2Sesion3\\x64\\Debug\\Unidad2Sesion3.obj",
+            "outputs": [
+                "Unidad2Sesion3\\x64\\Debug\\Unidad2Sesion3.cpp.obj.dt.module.json",
+                "Unidad2Sesion3\\x64\\Debug\\Unidad2Sesion3.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

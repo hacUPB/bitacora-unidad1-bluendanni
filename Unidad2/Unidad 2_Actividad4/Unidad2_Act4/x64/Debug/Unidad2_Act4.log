@@ -1,0 +1,9 @@
+﻿  Experimento1_Act4_Unidad2.cpp
+  Experimento2_Act4_Unidad2.cpp
+  Experimento3_Act4_Unidad2.cpp
+  Experimento4_Act4_Unidad2.cpp
+  Experimento5_Act4_Unidad2.cpp
+  Unidad2_Act4.cpp
+  Generating Code...
+C:\Users\Danna\OneDrive\Desktop\Computacionales Danna Caballero\Unidad2\Unidad2_Act4\Unidad2_Act4\Experimento4_Act4_Unidad2.cpp(19,5): error C2065: 'var_estatica': undeclared identifier
+C:\Users\Danna\OneDrive\Desktop\Computacionales Danna Caballero\Unidad2\Unidad2_Act4\Unidad2_Act4\Experimento4_Act4_Unidad2.cpp(20,33): error C2065: 'var_estatica': undeclared identifier

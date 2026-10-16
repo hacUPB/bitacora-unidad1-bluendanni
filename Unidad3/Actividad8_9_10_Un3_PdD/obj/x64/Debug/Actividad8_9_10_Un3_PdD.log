@@ -1,0 +1,7 @@
+﻿  main.cpp
+  ofApp.cpp
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+     Creating library bin\Actividad8_9_10_Un3_PdD_debug.lib and object bin\Actividad8_9_10_Un3_PdD_debug.exp
+  Actividad8_9_10_Un3_PdD.vcxproj -> C:\Repos\bitacora-unidad1-bluendanni\Unidad3\Actividad8_9_10_Un3_PdD\bin\Actividad8_9_10_Un3_PdD_debug.exe
+  File not found - *.dll
+  0 File(s) copied

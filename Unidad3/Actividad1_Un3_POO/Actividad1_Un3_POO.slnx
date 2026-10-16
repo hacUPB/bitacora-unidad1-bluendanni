@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Actividad1_Un3_POO/Actividad1_Un3_POO.vcxproj" Id="d7979687-6c28-4a4a-9f6d-209599e0711b" />
+</Solution>
