@@ -1,0 +1,8 @@
+﻿  Scanning sources for module dependencies...
+  ofApp.cpp
+C:\Users\Danna\OneDrive\Desktop\Computacionales Danna Caballero\of_v0.12.1_vs_64_release\apps\myApps\Actividad2Particulas\src\ofApp.cpp(15,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+     Creating library bin\Actividad2Particulas_debug.lib and object bin\Actividad2Particulas_debug.exp
+  Actividad2Particulas.vcxproj -> C:\Users\Danna\OneDrive\Desktop\Computacionales Danna Caballero\of_v0.12.1_vs_64_release\apps\myApps\Actividad2Particulas\bin\Actividad2Particulas_debug.exe
+  File not found - *.dll
+  0 File(s) copied

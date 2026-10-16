@@ -1,1 +1,22 @@
+# Bibliotecas y herramientas de openFrameworks
+/of_v0.12.1_vs_64_release/addons/
+/of_v0.12.1_vs_64_release/docs/
+/of_v0.12.1_vs_64_release/examples/
+/of_v0.12.1_vs_64_release/libs/
+/of_v0.12.1_vs_64_release/projectGenerator/
+/of_v0.12.1_vs_64_release/scripts/
+
+# Archivos temporales de Visual Studio
 .vs/
+*.obj
+*.pdb
+*.ilk
+*.pch
+*.ipch
+*.vcxproj.user
+*.exe
+*.dll
+*.lib
+*.exp
+*.idb
+*.tlog
